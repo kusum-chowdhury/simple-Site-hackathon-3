@@ -1,0 +1,22 @@
+#mainNavbar {
+    font-size: 2rem;
+    font-weight: 100;
+}
+#mainNavbar .nav-link{
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    /* background-color: red; */
+    color: #EA1C2C;
+}
+
+#mainNavbar .navbar-brand {
+    color: #EA1C2C;
+    font-size: 2rem;
+}
+
+.navbar.scrolled {
+    background-color: rgb(255, 0, 255) !important;
+    transition: background-color 200ms linear;
+  }
